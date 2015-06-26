@@ -14,11 +14,12 @@ Build the JC to run during regular semesters and around topics or themes that ov
 ## <i class="icon-calendar"></i> Time & Place
 
 Meetings take place Fridays
+
 |Date | Time | Place | Topic | Host |
 ------|------|-------|-------|-------
 26/06/'15|3:00-4:00| iCENSA | [Where Graph Topology Matters: The Robust Subgraph Problem](http://www3.cs.stonybrook.edu/~leman/pubs/15-robust-subgraphs.pdf) | Sal Aguinaga
 10/07/'15|3:00-4:00| iCENSA |TBD|TBD
-------|------|-------|--------|--------
+
 
 ## <i class="icon-users"></i> Summer 2015
 
