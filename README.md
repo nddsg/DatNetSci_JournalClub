@@ -12,6 +12,7 @@ Get the journal club started by building a student base and developing discussio
 Build the JC to run during regular semesters and around topics or themes that overlap with different labs.  Grow both the number of discussion leaders and students that want to participate in the discussions.
 
 ## <i class="icon-calendar"></i> Time & Place
+
 Meetings take place Fridays
 |Date | Time | Place | Topic | Host |
 ------|------|-------|-------|-------
