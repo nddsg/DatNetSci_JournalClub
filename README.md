@@ -19,7 +19,7 @@ Meetings take place Fridays
 |Date | Time | Place | Topic | Host |
 ------|------|-------|-------|-------
 26/06/'15|3:00-4:00| iCENSA | [Where Graph Topology Matters: The Robust Subgraph Problem](http://www3.cs.stonybrook.edu/~leman/pubs/15-robust-subgraphs.pdf) | Sal Aguinaga
-10/07/'15|3:00-4:00| iCENSA |TBD|TBD
+10/07/'15|3:00-4:00| iCENSA |[Association Rule Mining under Incomplete Evidence in Ontological Knowledge Bases](http://dl.acm.org/citation.cfm?id=2488425)| Baoxu (Dash) Shi
 
 
 
