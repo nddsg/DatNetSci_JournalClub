@@ -9,7 +9,7 @@ Meet regularly to critique research articles, to improve our understanding of re
 
 |Date | Time | Place | Topic | Host |
 ------|------|-------|-------|-------
-Nov 6th|11 AM| iCENSA| "Edge-Weighted Personalized PageRank: Breaking A Decade-Old Performance Barrier". Their algorithm outperforms existing methods for computing PageRank on general graphs when the edge weights are personalized by nearly five orders of magnitude. "Efficient Algorithms for Public-Private Social Networks", co-authored by Googlers Ravi Kumar, Silvio Lattanzi, Vahab Mirrokni, former Googler intern Alessandro Epasto and research visitor Flavio Chierichetti, was awarded Best Research Paper. | Sal Aguinaga
+Nov 6th|11 AM| iCENSA| "Edge-Weighted Personalized PageRank: Breaking A Decade-Old Performance Barrier" co-authored by Wenlei Xie, David Bindel, Al Demers, and Johannes Gehrke. Second article, "Efficient Algorithms for Public-Private Social Networks", co-authored by Googlers Ravi Kumar, Silvio Lattanzi, Vahab Mirrokni, former Googler intern Alessandro Epasto and research visitor Flavio Chierichetti | Sal Aguinaga
 TBD|TBD| iCENSA |[Association Rule Mining under Incomplete Evidence in Ontological Knowledge Bases](http://dl.acm.org/citation.cfm?id=2488425)| Baoxu (Dash) Shi
 26/06/'15|3:00-4:00| iCENSA | [Where Graph Topology Matters: The Robust Subgraph Problem](http://www3.cs.stonybrook.edu/~leman/pubs/15-robust-subgraphs.pdf) | Sal Aguinaga
 
